@@ -1,0 +1,9 @@
+{
+    "dart.flutterSdkPath": "C:\\flutter",
+    "dart.sdkPath": "C:\\flutter\\bin\\cache\\dart-sdk",
+    "dart.flutterCreateOrganization": null,
+    "gitlens.statusBar.dateFormat": "",
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Program Files\\Git\\bin;${env:PATH}"
+    }
+}
